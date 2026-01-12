@@ -3,13 +3,13 @@
   "content": "Tin Hót Hôm Nay",
 
   "images": [
-    "media/anh1.jpg",
     "media/anh2.jpg",
-    "media/anh3.jpg"
+    "media/anh22.jpg",
+    "media/anh222.jpg"
   ],
 
   "videos": [
-    "media/vd1.mp4",
-    "media/vd2.mp4"
+    "media/vd2.mp4",
+    "media/vd22.mp4"
   ]
 }
